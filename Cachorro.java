@@ -1,3 +1,5 @@
+package AtividadeAvaliativa;
+
 public class Cachorro {
 	
 	String nome;
@@ -45,10 +47,10 @@ public class Cachorro {
 	}
 	
 	//METODO "LATIR"
-	
 
-	public String latir() {
-	return "auaua";
+
+	public String dog(){
+	return "auauaua";
 	}
 	
 	
